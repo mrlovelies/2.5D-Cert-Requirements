@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.2.5D Cert Requirements.iml
+/modules.xml
+/projectSettingsUpdater.xml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\jalex\UnityProjects\2.5D Cert Requirements\.idea\.idea.2.5D Cert Requirements\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
